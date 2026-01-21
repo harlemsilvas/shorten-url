@@ -133,4 +133,3 @@ Observações sobre `ddl-auto`:
 
 ---
 
-Se quiser, eu (1) posso gerar um `README-pt.md` separado com versões curtas e exemplos, ou (2) adicionar scripts equivalentes para Linux/macOS (`run-local.sh`). Qual prefere? 
